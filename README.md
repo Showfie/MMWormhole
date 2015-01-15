@@ -1,6 +1,6 @@
 modified by ndun
 
-Forked from MMWormhole
+Forked from MMWormhole by Showfie
 
 # MMWormhole
 

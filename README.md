@@ -1,3 +1,5 @@
+Forked from MMWormhole
+
 # MMWormhole
 
 MMWormhole creates a bridge between an iOS extension and it's containing application. The wormhole is meant to be used to pass data or commands back and forth between the two locations. Messages are archived to files which are written to the application's shared App Group. The effect closely resembles interprocess communication between the app and the extension, though true interprocess communication does not exist between extensions and containing apps. 
